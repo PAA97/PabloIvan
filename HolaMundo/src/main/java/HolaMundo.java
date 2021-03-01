@@ -13,7 +13,8 @@ public class HolaMundo {
     public void HolaMundo() 
     {
         System.out.println("Hola Mundo");
-        System.out.println("Hola");
+        System.out.println("Hola Pedro");
+        System.out.println("Hola Martín");
     }
 
 }
